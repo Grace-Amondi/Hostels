@@ -17,4 +17,3 @@ def detail(request, hostels_id):
 
 
 
-
